@@ -7,6 +7,8 @@ A simple app with a REST endpoint build with Spring Boot.The REST service can co
 * Java 11
 * Spring Boot : 2.4.4
 * Maven Wrapper
+* Spring Initializer : https://start.spring.io/
+
 
 ### Usage
 ```sh
@@ -20,4 +22,7 @@ http://localhost:8080/hello?name=foo
 
 ---
 
-based on the : https://spring.io/quickstart
+based on the : 
+
+* https://spring.io/quickstart
+* https://start.spring.io/
